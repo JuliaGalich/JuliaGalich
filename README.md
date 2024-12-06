@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 А ось нижче мій портрет айтівця. 
 
 ![My portret 2024](https://github.com/JuliaGalich/JuliaGalich/blob/main/my-portrait-2022.png)
